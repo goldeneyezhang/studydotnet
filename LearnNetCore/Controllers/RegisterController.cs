@@ -12,8 +12,6 @@ namespace LearnNetCore.Controllers
         public IActionResult Index()
         {
 			RegisterViewModel registerViewModel = new RegisterViewModel();
-			registerViewModel.Country = CountryEnum.Canada;
-
 			return View(registerViewModel);
         }
     }
