@@ -16,6 +16,12 @@ namespace LearnNetCore.SelfAttribute
 			this._name = name;
 			this._value = value;
 		}
-		
-    }
+		public override void OnResultExecuting(ResultExecutingContext context)
+		{
+			context.HttpContext.Response.Headers.Add(
+				_name, new string[] { _value });
+			base.OnResultExecuting(context);
+		}
+
+	}
 }
