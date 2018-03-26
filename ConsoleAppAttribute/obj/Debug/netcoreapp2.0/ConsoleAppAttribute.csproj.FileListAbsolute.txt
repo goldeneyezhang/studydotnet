@@ -1,0 +1,8 @@
+E:\selfcode\StudyCode\ConsoleAppAttribute\bin\Debug\netcoreapp2.0\ConsoleAppAttribute.deps.json
+E:\selfcode\StudyCode\ConsoleAppAttribute\bin\Debug\netcoreapp2.0\ConsoleAppAttribute.runtimeconfig.json
+E:\selfcode\StudyCode\ConsoleAppAttribute\bin\Debug\netcoreapp2.0\ConsoleAppAttribute.runtimeconfig.dev.json
+E:\selfcode\StudyCode\ConsoleAppAttribute\bin\Debug\netcoreapp2.0\ConsoleAppAttribute.dll
+E:\selfcode\StudyCode\ConsoleAppAttribute\obj\Debug\netcoreapp2.0\ConsoleAppAttribute.csprojResolveAssemblyReference.cache
+E:\selfcode\StudyCode\ConsoleAppAttribute\obj\Debug\netcoreapp2.0\ConsoleAppAttribute.csproj.CoreCompileInputs.cache
+E:\selfcode\StudyCode\ConsoleAppAttribute\obj\Debug\netcoreapp2.0\ConsoleAppAttribute.AssemblyInfoInputs.cache
+E:\selfcode\StudyCode\ConsoleAppAttribute\obj\Debug\netcoreapp2.0\ConsoleAppAttribute.AssemblyInfo.cs

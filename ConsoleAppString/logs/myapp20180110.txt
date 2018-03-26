@@ -1,0 +1,65 @@
+2018-01-10 09:29:25.198 +08:00 [INF] Hello,world!
+2018-01-10 09:29:25.260 +08:00 [DBG] Dividing 10 by 0
+2018-01-10 09:29:25.307 +08:00 [ERR] Something went wrong
+System.DivideByZeroException: Attempted to divide by zero.
+   at ConsoleAppString.Program.Main(String[] args) in E:\selfcode\StudyCode\ConsoleAppString\Program.cs:line 24
+2018-01-10 09:31:25.384 +08:00 [INF] Hello,world!
+2018-01-10 09:31:25.434 +08:00 [DBG] Dividing 10 by 0
+2018-01-10 09:31:25.475 +08:00 [ERR] Something went wrong
+System.DivideByZeroException: Attempted to divide by zero.
+   at ConsoleAppString.Program.Main(String[] args) in E:\selfcode\StudyCode\ConsoleAppString\Program.cs:line 24
+2018-01-10 09:31:35.238 +08:00 [INF] Hello,world!
+2018-01-10 09:31:35.292 +08:00 [DBG] Dividing 10 by 0
+2018-01-10 09:31:35.308 +08:00 [ERR] Something went wrong
+System.DivideByZeroException: Attempted to divide by zero.
+   at ConsoleAppString.Program.Main(String[] args) in E:\selfcode\StudyCode\ConsoleAppString\Program.cs:line 24
+2018-01-10 09:48:22.271 +08:00 [INF] Hello,world!
+2018-01-10 09:48:22.323 +08:00 [DBG] Dividing 10 by 0
+2018-01-10 09:48:22.350 +08:00 [ERR] Something went wrong
+System.DivideByZeroException: Attempted to divide by zero.
+   at ConsoleAppString.Program.Main(String[] args) in E:\selfcode\StudyCode\ConsoleAppString\Program.cs:line 24
+2018-01-10 10:04:12.721 +08:00 [INF] Hello,world!
+2018-01-10 10:04:12.772 +08:00 [DBG] Dividing 10 by 0
+2018-01-10 10:04:12.789 +08:00 [ERR] Something went wrong
+System.DivideByZeroException: Attempted to divide by zero.
+   at ConsoleAppString.Program.Main(String[] args) in E:\selfcode\StudyCode\ConsoleAppString\Program.cs:line 26
+2018-01-10 10:14:44.533 +08:00 [INF] Hello,world!
+2018-01-10 10:14:44.594 +08:00 [DBG] Dividing 10 by 0
+2018-01-10 10:14:44.626 +08:00 [ERR] Something went wrong
+System.DivideByZeroException: Attempted to divide by zero.
+   at ConsoleAppString.Program.Main(String[] args) in E:\selfcode\StudyCode\ConsoleAppString\Program.cs:line 26
+2018-01-10 10:19:07.147 +08:00 [INF] Hello,world!
+2018-01-10 10:19:07.196 +08:00 [DBG] Dividing 10 by 0
+2018-01-10 10:19:07.212 +08:00 [ERR] Something went wrong
+System.DivideByZeroException: Attempted to divide by zero.
+   at ConsoleAppString.Program.Main(String[] args) in E:\selfcode\StudyCode\ConsoleAppString\Program.cs:line 26
+2018-01-10 10:22:16.079 +08:00 [INF] Hello,world!
+2018-01-10 10:22:16.129 +08:00 [DBG] Dividing 10 by 0
+2018-01-10 10:22:16.145 +08:00 [ERR] Something went wrong
+System.DivideByZeroException: Attempted to divide by zero.
+   at ConsoleAppString.Program.Main(String[] args) in E:\selfcode\StudyCode\ConsoleAppString\Program.cs:line 26
+2018-01-10 10:38:00.735 +08:00 [INF] Hello,world!
+2018-01-10 10:38:00.789 +08:00 [DBG] Dividing 10 by 0
+2018-01-10 10:38:00.807 +08:00 [ERR] Something went wrong
+System.DivideByZeroException: Attempted to divide by zero.
+   at ConsoleAppString.Program.Main(String[] args) in E:\selfcode\StudyCode\ConsoleAppString\Program.cs:line 27
+2018-01-10 10:38:16.520 +08:00 [INF] Hello,world!
+2018-01-10 10:38:16.571 +08:00 [DBG] Dividing 10 by 0
+2018-01-10 10:38:16.587 +08:00 [ERR] Something went wrong
+System.DivideByZeroException: Attempted to divide by zero.
+   at ConsoleAppString.Program.Main(String[] args) in E:\selfcode\StudyCode\ConsoleAppString\Program.cs:line 27
+2018-01-10 10:38:55.654 +08:00 [INF] Hello,world!
+2018-01-10 10:38:55.707 +08:00 [DBG] Dividing 10 by 0
+2018-01-10 10:38:55.728 +08:00 [ERR] Something went wrong
+System.DivideByZeroException: Attempted to divide by zero.
+   at ConsoleAppString.Program.Main(String[] args) in E:\selfcode\StudyCode\ConsoleAppString\Program.cs:line 27
+2018-01-10 10:39:31.826 +08:00 [INF] Hello,world!
+2018-01-10 10:39:31.876 +08:00 [DBG] Dividing 10 by 0
+2018-01-10 10:39:31.892 +08:00 [ERR] Something went wrong
+System.DivideByZeroException: Attempted to divide by zero.
+   at ConsoleAppString.Program.Main(String[] args) in E:\selfcode\StudyCode\ConsoleAppString\Program.cs:line 27
+2018-01-10 13:33:28.286 +08:00 [INF] Hello,world!
+2018-01-10 13:33:28.336 +08:00 [DBG] Dividing 10 by 0
+2018-01-10 13:33:28.354 +08:00 [ERR] Something went wrong
+System.DivideByZeroException: Attempted to divide by zero.
+   at ConsoleAppString.Program.Main(String[] args) in E:\selfcode\StudyCode\ConsoleAppString\Program.cs:line 27

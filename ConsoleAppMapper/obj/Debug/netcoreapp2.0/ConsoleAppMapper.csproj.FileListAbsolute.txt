@@ -1,0 +1,11 @@
+E:\selfcode\StudyCode\ConsoleAppMapper\bin\Debug\netcoreapp2.0\ConsoleAppMapper.deps.json
+E:\selfcode\StudyCode\ConsoleAppMapper\bin\Debug\netcoreapp2.0\ConsoleAppMapper.runtimeconfig.json
+E:\selfcode\StudyCode\ConsoleAppMapper\bin\Debug\netcoreapp2.0\ConsoleAppMapper.runtimeconfig.dev.json
+E:\selfcode\StudyCode\ConsoleAppMapper\bin\Debug\netcoreapp2.0\ConsoleAppMapper.dll
+E:\selfcode\StudyCode\ConsoleAppMapper\bin\Debug\netcoreapp2.0\ConsoleAppMapper.pdb
+E:\selfcode\StudyCode\ConsoleAppMapper\obj\Debug\netcoreapp2.0\ConsoleAppMapper.csproj.CoreCompileInputs.cache
+E:\selfcode\StudyCode\ConsoleAppMapper\obj\Debug\netcoreapp2.0\ConsoleAppMapper.AssemblyInfoInputs.cache
+E:\selfcode\StudyCode\ConsoleAppMapper\obj\Debug\netcoreapp2.0\ConsoleAppMapper.AssemblyInfo.cs
+E:\selfcode\StudyCode\ConsoleAppMapper\obj\Debug\netcoreapp2.0\ConsoleAppMapper.dll
+E:\selfcode\StudyCode\ConsoleAppMapper\obj\Debug\netcoreapp2.0\ConsoleAppMapper.pdb
+E:\selfcode\StudyCode\ConsoleAppMapper\obj\Debug\netcoreapp2.0\ConsoleAppMapper.csprojResolveAssemblyReference.cache

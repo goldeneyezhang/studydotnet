@@ -1,0 +1,14 @@
+E:\selfcode\StudyCode\XUnitTestProject1\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\selfcode\StudyCode\XUnitTestProject1\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+E:\selfcode\StudyCode\XUnitTestProject1\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+E:\selfcode\StudyCode\XUnitTestProject1\bin\Debug\netcoreapp2.0\XUnitTestProject1.deps.json
+E:\selfcode\StudyCode\XUnitTestProject1\bin\Debug\netcoreapp2.0\XUnitTestProject1.runtimeconfig.json
+E:\selfcode\StudyCode\XUnitTestProject1\bin\Debug\netcoreapp2.0\XUnitTestProject1.runtimeconfig.dev.json
+E:\selfcode\StudyCode\XUnitTestProject1\bin\Debug\netcoreapp2.0\XUnitTestProject1.dll
+E:\selfcode\StudyCode\XUnitTestProject1\obj\Debug\netcoreapp2.0\XUnitTestProject1.csprojResolveAssemblyReference.cache
+E:\selfcode\StudyCode\XUnitTestProject1\obj\Debug\netcoreapp2.0\XUnitTestProject1.csproj.CoreCompileInputs.cache
+E:\selfcode\StudyCode\XUnitTestProject1\obj\Debug\netcoreapp2.0\XUnitTestProject1.AssemblyInfoInputs.cache
+E:\selfcode\StudyCode\XUnitTestProject1\obj\Debug\netcoreapp2.0\XUnitTestProject1.AssemblyInfo.cs
+E:\selfcode\StudyCode\XUnitTestProject1\bin\Debug\netcoreapp2.0\XUnitTestProject1.pdb
+E:\selfcode\StudyCode\XUnitTestProject1\obj\Debug\netcoreapp2.0\XUnitTestProject1.dll
+E:\selfcode\StudyCode\XUnitTestProject1\obj\Debug\netcoreapp2.0\XUnitTestProject1.pdb

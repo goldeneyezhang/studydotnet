@@ -1,0 +1,9 @@
+E:\selfcode\StudyCode\StudyCode\bin\Release\StudyCode.exe.config
+E:\selfcode\StudyCode\StudyCode\bin\Release\StudyCode.exe
+E:\selfcode\StudyCode\StudyCode\bin\Release\StudyCode.pdb
+E:\selfcode\StudyCode\StudyCode\bin\Release\log4net.dll
+E:\selfcode\StudyCode\StudyCode\bin\Release\StackExchange.Redis.dll
+E:\selfcode\StudyCode\StudyCode\bin\Release\log4net.xml
+E:\selfcode\StudyCode\StudyCode\bin\Release\StackExchange.Redis.xml
+E:\selfcode\StudyCode\StudyCode\obj\Release\StudyCode.exe
+E:\selfcode\StudyCode\StudyCode\obj\Release\StudyCode.pdb

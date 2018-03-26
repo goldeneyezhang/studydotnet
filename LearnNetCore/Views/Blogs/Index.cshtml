@@ -1,0 +1,29 @@
+﻿@using LearnNetCore.Model
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers // 手动高亮
+@model List<Blog>
+@{
+	Layout = null;
+}
+<html>
+<head>
+	<meta name="viewport" content="width=device-width" />
+	<title>Blogs</title>
+</head>
+<body>
+	<label asp-for="email">Email Address</label>
+	<table>
+		@Html.Partial("AuthorPartial", "Yibo Partial")
+		@{
+			Html.RenderPartial("AuthorPartial", "Yibo Render Partial");
+		}
+		@foreach (Blog blog in Model)
+		{
+			@Html.Partial("ArticleSection", blog)
+		}
+	</table>
+	<div>
+
+		@await Component.InvokeAsync("TopicRankList");
+	</div>
+</body>
+</html>

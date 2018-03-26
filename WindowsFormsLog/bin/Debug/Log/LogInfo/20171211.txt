@@ -1,0 +1,31 @@
+<HR COLOR=blue>
+日志时间：2017-12-11 18:29:16,494 [9] <BR>
+日志级别：INFO  <BR>
+日 志 类：loginfo [(null)] <BR>
+当前的时间2017/12/11 18:29:16 <BR>
+ <HR Size=1><HR COLOR=blue>
+日志时间：2017-12-11 18:29:16,589 [9] <BR>
+日志级别：INFO  <BR>
+日 志 类：loginfo [(null)] <BR>
+当前的时间2017/12/11 18:29:16 <BR>
+ <HR Size=1><HR COLOR=blue>
+日志时间：2017-12-11 18:29:16,707 [9] <BR>
+日志级别：INFO  <BR>
+日 志 类：loginfo [(null)] <BR>
+当前的时间2017/12/11 18:29:16 <BR>
+ <HR Size=1><HR COLOR=blue>
+日志时间：2017-12-11 18:29:16,883 [9] <BR>
+日志级别：INFO  <BR>
+日 志 类：loginfo [(null)] <BR>
+当前的时间2017/12/11 18:29:16 <BR>
+ <HR Size=1><HR COLOR=blue>
+日志时间：2017-12-11 18:29:17,051 [9] <BR>
+日志级别：INFO  <BR>
+日 志 类：loginfo [(null)] <BR>
+当前的时间2017/12/11 18:29:17 <BR>
+ <HR Size=1><HR COLOR=blue>
+日志时间：2017-12-11 18:29:17,203 [9] <BR>
+日志级别：INFO  <BR>
+日 志 类：loginfo [(null)] <BR>
+当前的时间2017/12/11 18:29:17 <BR>
+ <HR Size=1>

@@ -1,0 +1,12 @@
+E:\selfcode\StudyCode\LearnNetCore\bin\Debug\netcoreapp2.0\LearnNetCore.deps.json
+E:\selfcode\StudyCode\LearnNetCore\bin\Debug\netcoreapp2.0\LearnNetCore.runtimeconfig.json
+E:\selfcode\StudyCode\LearnNetCore\bin\Debug\netcoreapp2.0\LearnNetCore.runtimeconfig.dev.json
+E:\selfcode\StudyCode\LearnNetCore\bin\Debug\netcoreapp2.0\LearnNetCore.dll
+E:\selfcode\StudyCode\LearnNetCore\obj\Debug\netcoreapp2.0\LearnNetCore.csprojResolveAssemblyReference.cache
+E:\selfcode\StudyCode\LearnNetCore\obj\Debug\netcoreapp2.0\LearnNetCore.csproj.CoreCompileInputs.cache
+E:\selfcode\StudyCode\LearnNetCore\obj\Debug\netcoreapp2.0\LearnNetCore.AssemblyInfoInputs.cache
+E:\selfcode\StudyCode\LearnNetCore\obj\Debug\netcoreapp2.0\LearnNetCore.AssemblyInfo.cs
+E:\selfcode\StudyCode\LearnNetCore\bin\Debug\netcoreapp2.0\LearnNetCore.pdb
+E:\selfcode\StudyCode\LearnNetCore\obj\Debug\netcoreapp2.0\LearnNetCore.dll
+E:\selfcode\StudyCode\LearnNetCore\obj\Debug\netcoreapp2.0\LearnNetCore.pdb
+E:\selfcode\StudyCode\LearnNetCore\bin\Debug\netcoreapp2.0\efcoredemo.db

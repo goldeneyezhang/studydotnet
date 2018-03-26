@@ -1,0 +1,6 @@
+E:\selfcode\StudyCode\ConsoleApplicationWCF\bin\Debug\ConsoleApplicationWCF.exe.config
+E:\selfcode\StudyCode\ConsoleApplicationWCF\obj\Debug\ConsoleApplicationWCF.csprojResolveAssemblyReference.cache
+E:\selfcode\StudyCode\ConsoleApplicationWCF\bin\Debug\ConsoleApplicationWCF.exe
+E:\selfcode\StudyCode\ConsoleApplicationWCF\bin\Debug\ConsoleApplicationWCF.pdb
+E:\selfcode\StudyCode\ConsoleApplicationWCF\obj\Debug\ConsoleApplicationWCF.exe
+E:\selfcode\StudyCode\ConsoleApplicationWCF\obj\Debug\ConsoleApplicationWCF.pdb

@@ -1,0 +1,11 @@
+E:\selfcode\StudyCode\WebApplicationNetCore\bin\Debug\netcoreapp2.0\WebApplicationNetCore.deps.json
+E:\selfcode\StudyCode\WebApplicationNetCore\bin\Debug\netcoreapp2.0\WebApplicationNetCore.runtimeconfig.json
+E:\selfcode\StudyCode\WebApplicationNetCore\bin\Debug\netcoreapp2.0\WebApplicationNetCore.runtimeconfig.dev.json
+E:\selfcode\StudyCode\WebApplicationNetCore\bin\Debug\netcoreapp2.0\WebApplicationNetCore.dll
+E:\selfcode\StudyCode\WebApplicationNetCore\bin\Debug\netcoreapp2.0\WebApplicationNetCore.pdb
+E:\selfcode\StudyCode\WebApplicationNetCore\obj\Debug\netcoreapp2.0\WebApplicationNetCore.csprojResolveAssemblyReference.cache
+E:\selfcode\StudyCode\WebApplicationNetCore\obj\Debug\netcoreapp2.0\WebApplicationNetCore.csproj.CoreCompileInputs.cache
+E:\selfcode\StudyCode\WebApplicationNetCore\obj\Debug\netcoreapp2.0\WebApplicationNetCore.AssemblyInfoInputs.cache
+E:\selfcode\StudyCode\WebApplicationNetCore\obj\Debug\netcoreapp2.0\WebApplicationNetCore.AssemblyInfo.cs
+E:\selfcode\StudyCode\WebApplicationNetCore\obj\Debug\netcoreapp2.0\WebApplicationNetCore.dll
+E:\selfcode\StudyCode\WebApplicationNetCore\obj\Debug\netcoreapp2.0\WebApplicationNetCore.pdb

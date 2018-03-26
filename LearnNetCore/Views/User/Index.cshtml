@@ -1,0 +1,22 @@
+﻿@using LearnNetCore.Model
+@model List<User>
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>User List</title>
+</head>
+<body>
+	<table>
+		@foreach (User user in Model)
+	{
+		<tr><td>@user.Id</td><td>@user.UserName</td></tr>
+}
+	</table>
+</body>
+</html>

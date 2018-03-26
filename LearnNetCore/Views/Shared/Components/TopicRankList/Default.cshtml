@@ -1,0 +1,10 @@
+﻿
+@using LearnNetCore.Model
+@model List<Topic>
+	<div>主题排行</div>
+
+	@foreach(var item in Model)
+	{
+	<a asp-controller="Topic" asp-action="Index" asp-route-id="@item.Id">@item.Text</a>
+	}
+

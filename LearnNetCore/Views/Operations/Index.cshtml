@@ -1,0 +1,30 @@
+﻿@using LearnNetCore.Interfaces
+@{
+	Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+	<meta name="viewport" content="width=device-width" />
+	<title>Index</title>
+</head>
+<body>
+	<h1>LifeTimes</h1>
+	<h2>Controller Operations</h2>
+	<table>
+		<tr><td>Transient</td><td>@(((IOperation)ViewBag.Transient).OperationId)</td></tr>
+		<tr><td>Scoped</td><td>@(((IOperation)ViewBag.Scoped).OperationId)</td></tr>
+		<tr><td>Singleton</td><td>@(((IOperation)ViewBag.Singleton).OperationId)</td></tr>
+		<tr><td>Instance</td><td>@(((IOperation)ViewBag.SingletonInstance).OperationId)</td></tr>
+	</table>
+	<h2>OperationService Operations</h2>
+	<table>
+		<tr><td>Transient</td><td>@(((OperationService)ViewBag.Service).TransientOperation.OperationId)</td></tr>
+		<tr><td>Scoped</td><td>@(((OperationService)ViewBag.Service).ScopedOperation.OperationId)</td></tr>
+		<tr><td>Singleton</td><td>@(((OperationService)ViewBag.Service).SingletonOperation.OperationId)</td></tr>
+		<tr><td>Instance</td><td>@(((OperationService)ViewBag.Service).SingletonInstanceOperation.OperationId)</td></tr>
+	</table>
+</body>
+</html>

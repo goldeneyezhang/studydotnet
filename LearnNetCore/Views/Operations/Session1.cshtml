@@ -1,0 +1,43 @@
+﻿@using LearnNetCore
+@{
+	Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Session1</title>
+</head>
+<body>
+	@{
+		var collection = (RequestEntryCollection)ViewBag.Session;
+		if (collection.TotalCount() == 0)
+		{
+			<div>Your session has not been established.</div>
+		}
+		else
+		{
+			foreach (var entry in collection.Entries)
+			{
+				<div>Request: @entry.Path was requested @entry.Count times.</div>
+			}
+			<div>Your session was located,you 've visited the site this many times: @collection.TotalCount()</div>
+		}
+	}
+	@ViewBag.Cache
+	<cache expires-after="@TimeSpan.FromSeconds(10)">
+		<p>缓存项10秒过期-YiBo</p>
+		@DateTime.Now
+	</cache>
+	<cache expires-sliding="@TimeSpan.FromSeconds(10)">
+		<p>缓存项有人访问就不会过期，无人访问10秒过期-YiBo</p>
+		@DateTime.Now
+	</cache>
+	<cache vary-by-header="User-Agent">
+		<p>Current Time Inside Cache Tag Helper: @DateTime.Now</p>
+	</cache>
+
+</body>
+</html>
