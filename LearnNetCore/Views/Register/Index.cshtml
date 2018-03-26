@@ -1,0 +1,10 @@
+﻿@using LearnNetCore.ViewModel
+@model RegisterViewModel
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+<form asp-controller="Demo" asp-action="RegisterInput" method="post">
+	Email:<input asp-for="Email" /><br />
+	Password:<input asp-for="Password" /><br />
+	Address:<input asp-for="Address.AddressLine1" /><br />
+	Country:<select asp-for="Country" asp-items="Model.Countries"></select>
+	<button type="submit">Register</button>
+</form>

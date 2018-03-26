@@ -1,0 +1,16 @@
+﻿@using LearnNetCore.Model
+@model Movie
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+Movie
+<br />
+<a asp-controller="Blogs"
+   asp-action="Index">All Blogs</a>
+<br/>
+<label asp-for="Title"></label>
+<input asp-for="Title" /><br/>
+<form asp-controller="Demo" asp-action="Register" method="post">
+	<!-- Input and Submit elements-->
+</form>
+<form asp-controller="Account" asp-action="Login" asp-route-returnrul="" method="post" class="form-horizontal" role="form">
+
+</form>

@@ -37,7 +37,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplicationAutofac", "We
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppTask", "ConsoleAppTask\ConsoleAppTask.csproj", "{C0706625-8032-440E-8D45-AD0E5DAD0A19}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnNetCore", "LearnNetCore\LearnNetCore.csproj", "{F0E044D3-30AD-44A0-BE08-280C055A22F4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LearnNetCore", "LearnNetCore\LearnNetCore.csproj", "{F0E044D3-30AD-44A0-BE08-280C055A22F4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
