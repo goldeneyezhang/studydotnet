@@ -8,6 +8,7 @@ using LearnNetCore.Repository;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Mvc.Formatters;
 using Microsoft.AspNetCore.StaticFiles;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
@@ -81,6 +82,8 @@ namespace LearnNetCore
 				options =>
 				{
 					options.Conventions.Add(new RabbitConvention());
+					options.OutputFormatters.Add(new XmlSerializerOutputFormatter());
+					options.FormatterMappings.SetMediaTypeMappingForFormat("xml", "application/xml");
 				}
 				);
 			//Add Autofac
