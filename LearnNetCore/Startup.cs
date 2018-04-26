@@ -3,6 +3,7 @@ using Autofac.Extensions.DependencyInjection;
 using LearnNetCore.Constraint;
 using LearnNetCore.Context;
 using LearnNetCore.Controllers;
+using LearnNetCore.Formatter;
 using LearnNetCore.Interfaces;
 using LearnNetCore.Repository;
 using Microsoft.AspNetCore.Builder;
@@ -83,6 +84,7 @@ namespace LearnNetCore
 				{
 					options.Conventions.Add(new RabbitConvention());
 					options.OutputFormatters.Add(new XmlSerializerOutputFormatter());
+					options.OutputFormatters.Add(new ProtobufFormatter());
 					options.FormatterMappings.SetMediaTypeMappingForFormat("xml", "application/xml");
 				}
 				);
