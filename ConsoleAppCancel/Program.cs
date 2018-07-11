@@ -7,10 +7,11 @@ using System.Threading.Tasks;
 
 namespace ConsoleAppCancel
 {
-    class Program
-    {
-        static void Main(string[] args)
-        {
+	class Program
+	{
+		static void Main(string[] args)
+		{
+			Console.WriteLine(RemoveDuplicates(new int[] { 1, 1, 2, 2, 3, 3 }));
 			JSchemaGenerator generator = new JSchemaGenerator();
 			generator.DefaultRequired = Required.DisallowNull;
 
@@ -34,6 +35,24 @@ namespace ConsoleAppCancel
 			Console.ReadLine();
 			Console.WriteLine("Hello World!");
 
-        }
-    }
+
+		}
+		public static int RemoveDuplicates(int[] nums)
+		{
+			if (nums.Length == 0)
+			{
+				return 0;
+			}
+			int number = 0;
+			for (int i = 0; i < nums.Length; i++)
+			{
+				if (nums[i] != nums[number])
+				{
+					number++;
+					nums[number] = nums[i];
+				}
+			}
+			return ++number;
+		}
+	}
 }
