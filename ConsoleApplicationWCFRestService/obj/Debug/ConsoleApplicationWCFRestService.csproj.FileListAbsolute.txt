@@ -3,6 +3,8 @@ E:\selfcode\StudyCode\ConsoleApplicationWCFRestService\bin\Debug\ConsoleApplicat
 E:\selfcode\StudyCode\ConsoleApplicationWCFRestService\bin\Debug\ConsoleApplicationWCFRestService.pdb
 E:\selfcode\StudyCode\ConsoleApplicationWCFRestService\bin\Debug\Autofac.dll
 E:\selfcode\StudyCode\ConsoleApplicationWCFRestService\bin\Debug\Autofac.xml
-E:\selfcode\StudyCode\ConsoleApplicationWCFRestService\obj\Debug\ConsoleApplicationWCFRestService.csprojResolveAssemblyReference.cache
 E:\selfcode\StudyCode\ConsoleApplicationWCFRestService\obj\Debug\ConsoleApplicationWCFRestService.exe
 E:\selfcode\StudyCode\ConsoleApplicationWCFRestService\obj\Debug\ConsoleApplicationWCFRestService.pdb
+E:\selfcode\StudyCode\ConsoleApplicationWCFRestService\obj\Debug\ConsoleApplicationWCFRestService.csprojAssemblyReference.cache
+E:\selfcode\StudyCode\ConsoleApplicationWCFRestService\obj\Debug\ConsoleApplicationWCFRestService.csproj.CoreCompileInputs.cache
+E:\selfcode\StudyCode\ConsoleApplicationWCFRestService\obj\Debug\ConsoleApplicationWCFRestService.csproj.CopyComplete

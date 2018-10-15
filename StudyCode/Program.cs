@@ -77,9 +77,9 @@ namespace StudyCode
 			//LogRequest[] LogList = new LogRequest[]{ log};
 			//string json= "[{\"ThreadID\": 125,\"ThreadName\": \"yibozhangbbb\",\"ProcessID\": 19788,\"ProcessName\": \"19788@DST58268\",\"Message\": \"test messagexx\",\"AppDomainName\": \"test app namexx\",\"DetailStr\": \"test detail str\",\"CreateTime\": \"2018-01-11 18:50:04.856+08:00\",\"MachineName\": \"DST63522\",\"Source\": \"Rest.Service8888\",\"SystemCode\": \"DotNet.Core\",\"IPAddress\": \"10.32.230.2\",\"TagDict\": {\"LevelName\": \"INFO\",\"Level\": 20000}}]";
 			//var logv = JsonConvert.DeserializeObject<LogRequest[]>(json);
-			//var result=HttpClientUtil.PostAsJson<bool, LogRequest[]>("http://log.api.dev.corp.wingontravel.com/DebugLog/AddLog", logv, 5000).Result;
+			//var result=HttpClientUtil.PostAsJson<bool, LogRequest[]>("http://log.api.dev.corp.com/DebugLog/AddLog", logv, 5000).Result;
 			//Thread.Sleep(1000);
-			//var result2 = HttpClientUtil.PostAsJson<bool, LogRequest[]>("http://log.api.dev.corp.wingontravel.com/DebugLog/AddLog", LogList, 5000).Result;
+			//var result2 = HttpClientUtil.PostAsJson<bool, LogRequest[]>("http://log.api.dev.corp.com/DebugLog/AddLog", LogList, 5000).Result;
 			//Console.WriteLine(result);
 			//ConnectionMultiplexer redis = ConnectionMultiplexer.Connect("127.0.0.1:6379");
 			//IDatabase db = redis.GetDatabase();

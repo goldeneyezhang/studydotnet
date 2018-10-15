@@ -9476,9 +9476,6 @@ namespace Ticket.Entity
         Ctrip = 1,
         
         [System.Runtime.Serialization.EnumMemberAttribute()]
-        Wingon = 2,
-        
-        [System.Runtime.Serialization.EnumMemberAttribute()]
         Aggregate = 3,
     }
     
@@ -9555,9 +9552,6 @@ namespace Ticket.Entity
         
         [System.Runtime.Serialization.EnumMemberAttribute()]
         MUTAirlines = 22,
-        
-        [System.Runtime.Serialization.EnumMemberAttribute()]
-        Wingon = 101,
     }
     
     [System.CodeDom.Compiler.GeneratedCodeAttribute("System.Runtime.Serialization", "4.0.0.0")]

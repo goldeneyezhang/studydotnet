@@ -8,4 +8,4 @@ E:\selfcode\StudyCode\ConsoleAppMapper\obj\Debug\netcoreapp2.0\ConsoleAppMapper.
 E:\selfcode\StudyCode\ConsoleAppMapper\obj\Debug\netcoreapp2.0\ConsoleAppMapper.AssemblyInfo.cs
 E:\selfcode\StudyCode\ConsoleAppMapper\obj\Debug\netcoreapp2.0\ConsoleAppMapper.dll
 E:\selfcode\StudyCode\ConsoleAppMapper\obj\Debug\netcoreapp2.0\ConsoleAppMapper.pdb
-E:\selfcode\StudyCode\ConsoleAppMapper\obj\Debug\netcoreapp2.0\ConsoleAppMapper.csprojResolveAssemblyReference.cache
+E:\selfcode\StudyCode\ConsoleAppMapper\obj\Debug\netcoreapp2.0\ConsoleAppMapper.csprojAssemblyReference.cache

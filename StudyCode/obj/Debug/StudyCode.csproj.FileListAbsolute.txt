@@ -3,7 +3,6 @@ E:\selfcode\StudyCode\StudyCode\bin\Debug\StudyCode.exe
 E:\selfcode\StudyCode\StudyCode\bin\Debug\StudyCode.pdb
 E:\selfcode\StudyCode\StudyCode\bin\Debug\StackExchange.Redis.dll
 E:\selfcode\StudyCode\StudyCode\bin\Debug\StackExchange.Redis.xml
-E:\selfcode\StudyCode\StudyCode\obj\Debug\StudyCode.csprojResolveAssemblyReference.cache
 E:\selfcode\StudyCode\StudyCode\obj\Debug\StudyCode.exe
 E:\selfcode\StudyCode\StudyCode\obj\Debug\StudyCode.pdb
 E:\selfcode\StudyCode\StudyCode\bin\Debug\log4net.dll
@@ -20,3 +19,5 @@ E:\selfcode\StudyCode\StudyCode\bin\Debug\Owin.dll
 E:\selfcode\StudyCode\StudyCode\bin\Debug\Autofac.xml
 E:\selfcode\StudyCode\StudyCode\bin\Debug\Hangfire.Autofac.xml
 E:\selfcode\StudyCode\StudyCode\bin\Debug\Hangfire.Core.xml
+E:\selfcode\StudyCode\StudyCode\obj\Debug\StudyCode.csprojAssemblyReference.cache
+E:\selfcode\StudyCode\StudyCode\obj\Debug\StudyCode.csproj.CopyComplete

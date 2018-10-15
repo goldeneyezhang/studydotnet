@@ -25,7 +25,7 @@ namespace ConsoleApplicationWCFService
 			Console.WriteLine($"{resultCity.Contents.Length},{resultCity.ReturnCode}");
 			Console.WriteLine("SearchFlightListForAggregate-----------------------");
 			//var resultDate = ticketRestService.GetOutboundDate(DateTime.Now);
-			//var result = ticketRestService.SearchFlightListForAggregate(new Ticket.Entity.Rest.SearchFlightListRequest() {ResourceType=ResourceType.Wingon,LangCode=LangCode.Zh,CabinType=CabinType.Tourist,JourneyType=JourneyType.OneWay });
+		
 			//Console.WriteLine(result);
 			Console.Read();
 		}

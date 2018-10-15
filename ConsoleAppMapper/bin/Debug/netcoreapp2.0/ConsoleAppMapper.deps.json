@@ -25,7 +25,10 @@
           "System.ComponentModel": "4.3.0"
         },
         "runtime": {
-          "lib/netstandard1.1/Autofac.dll": {}
+          "lib/netstandard1.1/Autofac.dll": {
+            "assemblyVersion": "4.6.2.0",
+            "fileVersion": "4.6.2.0"
+          }
         }
       },
       "AutoMapper/6.2.2": {
@@ -42,12 +45,18 @@
           "System.Text.RegularExpressions": "4.3.0"
         },
         "runtime": {
-          "lib/netstandard1.3/AutoMapper.dll": {}
+          "lib/netstandard1.3/AutoMapper.dll": {
+            "assemblyVersion": "6.2.2.0",
+            "fileVersion": "6.2.2.0"
+          }
         }
       },
       "EmitMapper/1.0.0": {
         "runtime": {
-          "lib/EmitMapper.dll": {}
+          "lib/EmitMapper.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "Microsoft.CSharp/4.3.0": {
@@ -92,7 +101,10 @@
           "System.Threading": "4.3.0"
         },
         "runtime": {
-          "lib/netstandard1.3/Serilog.dll": {}
+          "lib/netstandard1.3/Serilog.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.6.0.0"
+          }
         }
       },
       "Serilog.Sinks.Console/3.1.1": {
@@ -103,7 +115,10 @@
           "System.Runtime.InteropServices.RuntimeInformation": "4.3.0"
         },
         "runtime": {
-          "lib/netcoreapp1.1/Serilog.Sinks.Console.dll": {}
+          "lib/netcoreapp1.1/Serilog.Sinks.Console.dll": {
+            "assemblyVersion": "3.1.1.0",
+            "fileVersion": "3.1.1.0"
+          }
         }
       },
       "System.Collections/4.3.0": {
@@ -437,7 +452,10 @@
       },
       "TinyMapper/2.0.8": {
         "runtime": {
-          "lib/net45/TinyMapper.dll": {}
+          "lib/net45/TinyMapper.dll": {
+            "assemblyVersion": "2.0.0.40",
+            "fileVersion": "2.0.0.40"
+          }
         }
       }
     }

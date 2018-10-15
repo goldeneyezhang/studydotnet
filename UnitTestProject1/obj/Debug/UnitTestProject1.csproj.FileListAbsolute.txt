@@ -10,7 +10,8 @@ E:\selfcode\StudyCode\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlat
 E:\selfcode\StudyCode\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
 E:\selfcode\StudyCode\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
 E:\selfcode\StudyCode\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
-E:\selfcode\StudyCode\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
 E:\selfcode\StudyCode\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
 E:\selfcode\StudyCode\UnitTestProject1\obj\Debug\UnitTestProject1.dll
 E:\selfcode\StudyCode\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+E:\selfcode\StudyCode\UnitTestProject1\obj\Debug\UnitTestProject1.csprojAssemblyReference.cache
+E:\selfcode\StudyCode\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete

@@ -53,7 +53,6 @@ E:\selfcode\StudyCode\WebApplication1\bin\System.Web.WebPages.Razor.xml
 E:\selfcode\StudyCode\WebApplication1\bin\Antlr3.Runtime.pdb
 E:\selfcode\StudyCode\WebApplication1\bin\Newtonsoft.Json.xml
 E:\selfcode\StudyCode\WebApplication1\bin\zh-Hans\System.Web.Optimization.resources.dll
-E:\selfcode\StudyCode\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
 E:\selfcode\StudyCode\WebApplication1\obj\Debug\WebApplication1.dll
 E:\selfcode\StudyCode\WebApplication1\obj\Debug\WebApplication1.pdb
 E:\selfcode\StudyCode\WebApplication1\bin\ConsoleAppAutofac.dll
@@ -66,3 +65,5 @@ E:\selfcode\StudyCode\WebApplication1\bin\zh-Hans\System.Web.WebPages.resources.
 E:\selfcode\StudyCode\WebApplication1\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
 E:\selfcode\StudyCode\WebApplication1\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
 E:\selfcode\StudyCode\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+E:\selfcode\StudyCode\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+E:\selfcode\StudyCode\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete

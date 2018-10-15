@@ -3,7 +3,6 @@ E:\selfcode\StudyCode\ConsoleAppTask\bin\Debug\netcoreapp2.0\ConsoleAppTask.runt
 E:\selfcode\StudyCode\ConsoleAppTask\bin\Debug\netcoreapp2.0\ConsoleAppTask.runtimeconfig.dev.json
 E:\selfcode\StudyCode\ConsoleAppTask\bin\Debug\netcoreapp2.0\ConsoleAppTask.dll
 E:\selfcode\StudyCode\ConsoleAppTask\bin\Debug\netcoreapp2.0\ConsoleAppTask.pdb
-E:\selfcode\StudyCode\ConsoleAppTask\obj\Debug\netcoreapp2.0\ConsoleAppTask.csprojResolveAssemblyReference.cache
 E:\selfcode\StudyCode\ConsoleAppTask\obj\Debug\netcoreapp2.0\ConsoleAppTask.csproj.CoreCompileInputs.cache
 E:\selfcode\StudyCode\ConsoleAppTask\obj\Debug\netcoreapp2.0\ConsoleAppTask.AssemblyInfoInputs.cache
 E:\selfcode\StudyCode\ConsoleAppTask\obj\Debug\netcoreapp2.0\ConsoleAppTask.AssemblyInfo.cs

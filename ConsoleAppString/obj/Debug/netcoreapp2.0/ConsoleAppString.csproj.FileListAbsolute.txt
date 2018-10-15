@@ -3,9 +3,9 @@ E:\selfcode\StudyCode\ConsoleAppString\bin\Debug\netcoreapp2.0\ConsoleAppString.
 E:\selfcode\StudyCode\ConsoleAppString\bin\Debug\netcoreapp2.0\ConsoleAppString.runtimeconfig.dev.json
 E:\selfcode\StudyCode\ConsoleAppString\bin\Debug\netcoreapp2.0\ConsoleAppString.dll
 E:\selfcode\StudyCode\ConsoleAppString\bin\Debug\netcoreapp2.0\ConsoleAppString.pdb
-E:\selfcode\StudyCode\ConsoleAppString\obj\Debug\netcoreapp2.0\ConsoleAppString.csprojResolveAssemblyReference.cache
 E:\selfcode\StudyCode\ConsoleAppString\obj\Debug\netcoreapp2.0\ConsoleAppString.csproj.CoreCompileInputs.cache
 E:\selfcode\StudyCode\ConsoleAppString\obj\Debug\netcoreapp2.0\ConsoleAppString.AssemblyInfoInputs.cache
 E:\selfcode\StudyCode\ConsoleAppString\obj\Debug\netcoreapp2.0\ConsoleAppString.AssemblyInfo.cs
 E:\selfcode\StudyCode\ConsoleAppString\obj\Debug\netcoreapp2.0\ConsoleAppString.dll
 E:\selfcode\StudyCode\ConsoleAppString\obj\Debug\netcoreapp2.0\ConsoleAppString.pdb
+E:\selfcode\StudyCode\ConsoleAppString\obj\Debug\netcoreapp2.0\ConsoleAppString.csprojAssemblyReference.cache

@@ -5,9 +5,10 @@ E:\selfcode\StudyCode\ConsoleAppAutofac\bin\Debug\Castle.Core.dll
 E:\selfcode\StudyCode\ConsoleAppAutofac\bin\Debug\Autofac.xml
 E:\selfcode\StudyCode\ConsoleAppAutofac\bin\Debug\Autofac.Extras.DynamicProxy.xml
 E:\selfcode\StudyCode\ConsoleAppAutofac\bin\Debug\Castle.Core.xml
-E:\selfcode\StudyCode\ConsoleAppAutofac\obj\Debug\ConsoleAppAutofac.csprojResolveAssemblyReference.cache
 E:\selfcode\StudyCode\ConsoleAppAutofac\obj\Debug\ConsoleAppAutofac.pdb
 E:\selfcode\StudyCode\ConsoleAppAutofac\bin\Debug\ConsoleAppAutofac.dll.config
 E:\selfcode\StudyCode\ConsoleAppAutofac\bin\Debug\ConsoleAppAutofac.dll
 E:\selfcode\StudyCode\ConsoleAppAutofac\obj\Debug\ConsoleAppAutofac.dll
 E:\selfcode\StudyCode\ConsoleAppAutofac\obj\Debug\ConsoleAppAutofac.csproj.CoreCompileInputs.cache
+E:\selfcode\StudyCode\ConsoleAppAutofac\obj\Debug\ConsoleAppAutofac.csprojAssemblyReference.cache
+E:\selfcode\StudyCode\ConsoleAppAutofac\obj\Debug\ConsoleAppAutofac.csproj.CopyComplete

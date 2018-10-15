@@ -2,10 +2,10 @@ E:\selfcode\StudyCode\WebApplicationAutofac\bin\Debug\netcoreapp2.0\WebApplicati
 E:\selfcode\StudyCode\WebApplicationAutofac\bin\Debug\netcoreapp2.0\WebApplicationAutofac.runtimeconfig.json
 E:\selfcode\StudyCode\WebApplicationAutofac\bin\Debug\netcoreapp2.0\WebApplicationAutofac.runtimeconfig.dev.json
 E:\selfcode\StudyCode\WebApplicationAutofac\bin\Debug\netcoreapp2.0\WebApplicationAutofac.dll
-E:\selfcode\StudyCode\WebApplicationAutofac\obj\Debug\netcoreapp2.0\WebApplicationAutofac.csprojResolveAssemblyReference.cache
 E:\selfcode\StudyCode\WebApplicationAutofac\obj\Debug\netcoreapp2.0\WebApplicationAutofac.csproj.CoreCompileInputs.cache
 E:\selfcode\StudyCode\WebApplicationAutofac\obj\Debug\netcoreapp2.0\WebApplicationAutofac.AssemblyInfoInputs.cache
 E:\selfcode\StudyCode\WebApplicationAutofac\obj\Debug\netcoreapp2.0\WebApplicationAutofac.AssemblyInfo.cs
 E:\selfcode\StudyCode\WebApplicationAutofac\bin\Debug\netcoreapp2.0\WebApplicationAutofac.pdb
 E:\selfcode\StudyCode\WebApplicationAutofac\obj\Debug\netcoreapp2.0\WebApplicationAutofac.dll
 E:\selfcode\StudyCode\WebApplicationAutofac\obj\Debug\netcoreapp2.0\WebApplicationAutofac.pdb
+E:\selfcode\StudyCode\WebApplicationAutofac\obj\Debug\netcoreapp2.0\WebApplicationAutofac.csprojAssemblyReference.cache

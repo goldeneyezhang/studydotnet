@@ -2,10 +2,10 @@ E:\selfcode\StudyCode\ConsoleCoreSpider\bin\Debug\netcoreapp2.0\ConsoleCoreSpide
 E:\selfcode\StudyCode\ConsoleCoreSpider\bin\Debug\netcoreapp2.0\ConsoleCoreSpider.runtimeconfig.json
 E:\selfcode\StudyCode\ConsoleCoreSpider\bin\Debug\netcoreapp2.0\ConsoleCoreSpider.runtimeconfig.dev.json
 E:\selfcode\StudyCode\ConsoleCoreSpider\bin\Debug\netcoreapp2.0\ConsoleCoreSpider.dll
-E:\selfcode\StudyCode\ConsoleCoreSpider\obj\Debug\netcoreapp2.0\ConsoleCoreSpider.csprojResolveAssemblyReference.cache
 E:\selfcode\StudyCode\ConsoleCoreSpider\obj\Debug\netcoreapp2.0\ConsoleCoreSpider.csproj.CoreCompileInputs.cache
 E:\selfcode\StudyCode\ConsoleCoreSpider\obj\Debug\netcoreapp2.0\ConsoleCoreSpider.AssemblyInfoInputs.cache
 E:\selfcode\StudyCode\ConsoleCoreSpider\obj\Debug\netcoreapp2.0\ConsoleCoreSpider.AssemblyInfo.cs
 E:\selfcode\StudyCode\ConsoleCoreSpider\bin\Debug\netcoreapp2.0\ConsoleCoreSpider.pdb
 E:\selfcode\StudyCode\ConsoleCoreSpider\obj\Debug\netcoreapp2.0\ConsoleCoreSpider.dll
 E:\selfcode\StudyCode\ConsoleCoreSpider\obj\Debug\netcoreapp2.0\ConsoleCoreSpider.pdb
+E:\selfcode\StudyCode\ConsoleCoreSpider\obj\Debug\netcoreapp2.0\ConsoleCoreSpider.csprojAssemblyReference.cache

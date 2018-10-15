@@ -3,10 +3,12 @@ E:\selfcode\StudyCode\WindowsFormsLog\bin\Debug\WindowsFormsLog.exe
 E:\selfcode\StudyCode\WindowsFormsLog\bin\Debug\WindowsFormsLog.pdb
 E:\selfcode\StudyCode\WindowsFormsLog\bin\Debug\log4net.dll
 E:\selfcode\StudyCode\WindowsFormsLog\bin\Debug\log4net.xml
-E:\selfcode\StudyCode\WindowsFormsLog\obj\Debug\WindowsFormsLog.csprojResolveAssemblyReference.cache
 E:\selfcode\StudyCode\WindowsFormsLog\obj\Debug\WindowsFormsLog.Form1.resources
 E:\selfcode\StudyCode\WindowsFormsLog\obj\Debug\WindowsFormsLog.Properties.Resources.resources
 E:\selfcode\StudyCode\WindowsFormsLog\obj\Debug\WindowsFormsLog.csproj.GenerateResource.Cache
 E:\selfcode\StudyCode\WindowsFormsLog\obj\Debug\WindowsFormsLog.exe
 E:\selfcode\StudyCode\WindowsFormsLog\obj\Debug\WindowsFormsLog.pdb
 E:\selfcode\StudyCode\WindowsFormsLog\bin\Debug\log4net.config
+E:\selfcode\StudyCode\WindowsFormsLog\obj\Debug\WindowsFormsLog.csprojAssemblyReference.cache
+E:\selfcode\StudyCode\WindowsFormsLog\obj\Debug\WindowsFormsLog.csproj.CoreCompileInputs.cache
+E:\selfcode\StudyCode\WindowsFormsLog\obj\Debug\WindowsFormsLog.csproj.CopyComplete

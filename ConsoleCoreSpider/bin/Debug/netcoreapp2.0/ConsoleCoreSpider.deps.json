@@ -21,7 +21,10 @@
           "System.ComponentModel": "4.0.1"
         },
         "runtime": {
-          "lib/netstandard1.1/Autofac.dll": {}
+          "lib/netstandard1.1/Autofac.dll": {
+            "assemblyVersion": "4.6.2.0",
+            "fileVersion": "4.6.2.0"
+          }
         }
       },
       "CoreCompat.System.Drawing.v2/5.2.0-preview1-r131": {
@@ -29,7 +32,10 @@
           "System.Security.Permissions": "4.4.0-preview1-25305-02"
         },
         "runtime": {
-          "lib/netstandard2.0/CoreCompat.System.Drawing.dll": {}
+          "lib/netstandard2.0/CoreCompat.System.Drawing.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.0.0.0"
+          }
         }
       },
       "HtmlAgilityPack/1.6.10": {
@@ -40,7 +46,10 @@
           "System.Xml.XmlDocument": "4.3.0"
         },
         "runtime": {
-          "lib/netstandard2.0/HtmlAgilityPack.dll": {}
+          "lib/netstandard2.0/HtmlAgilityPack.dll": {
+            "assemblyVersion": "1.6.10.0",
+            "fileVersion": "1.6.10.0"
+          }
         }
       },
       "HttpCode.Core/4.2.0": {
@@ -48,7 +57,10 @@
           "CoreCompat.System.Drawing.v2": "5.2.0-preview1-r131"
         },
         "runtime": {
-          "lib/netstandard2.0/HttpCode.Core.dll": {}
+          "lib/netstandard2.0/HttpCode.Core.dll": {
+            "assemblyVersion": "4.2.0.0",
+            "fileVersion": "4.2.0.0"
+          }
         }
       },
       "Microsoft.NETCore.Targets/1.1.0": {},
@@ -580,7 +592,10 @@
           "System.Security.AccessControl": "4.4.0-preview1-25305-02"
         },
         "runtime": {
-          "lib/netstandard2.0/System.Security.Permissions.dll": {}
+          "lib/netstandard2.0/System.Security.Permissions.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.6.25305.2"
+          }
         }
       },
       "System.Security.Principal.Windows/4.4.0-preview1-25305-02": {
@@ -692,7 +707,10 @@
           "System.Xml.XmlDocument": "4.3.0"
         },
         "runtime": {
-          "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
+          "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {
+            "assemblyVersion": "4.0.2.0",
+            "fileVersion": "4.6.24705.1"
+          }
         }
       }
     }

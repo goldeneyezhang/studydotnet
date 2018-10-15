@@ -1,4 +1,3 @@
-E:\selfcode\StudyCode\ConsoleAppWeave\obj\Debug\ConsoleAppWeave.csprojResolveAssemblyReference.cache
 E:\selfcode\StudyCode\ConsoleAppWeave\bin\Debug\ConsoleAppWeave.exe.config
 E:\selfcode\StudyCode\ConsoleAppWeave\bin\Debug\ConsoleAppWeave.exe
 E:\selfcode\StudyCode\ConsoleAppWeave\bin\Debug\ConsoleAppWeave.pdb
@@ -7,3 +6,6 @@ E:\selfcode\StudyCode\ConsoleAppWeave\bin\Debug\Castle.Windsor.dll
 E:\selfcode\StudyCode\ConsoleAppWeave\bin\Debug\Castle.Windsor.xml
 E:\selfcode\StudyCode\ConsoleAppWeave\obj\Debug\ConsoleAppWeave.exe
 E:\selfcode\StudyCode\ConsoleAppWeave\obj\Debug\ConsoleAppWeave.pdb
+E:\selfcode\StudyCode\ConsoleAppWeave\obj\Debug\ConsoleAppWeave.csprojAssemblyReference.cache
+E:\selfcode\StudyCode\ConsoleAppWeave\obj\Debug\ConsoleAppWeave.csproj.CoreCompileInputs.cache
+E:\selfcode\StudyCode\ConsoleAppWeave\obj\Debug\ConsoleAppWeave.csproj.CopyComplete

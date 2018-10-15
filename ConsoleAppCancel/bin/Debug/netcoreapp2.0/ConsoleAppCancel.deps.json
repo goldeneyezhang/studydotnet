@@ -16,7 +16,10 @@
       },
       "Newtonsoft.Json/11.0.1": {
         "runtime": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.0.1.21818"
+          }
         }
       },
       "Newtonsoft.Json.Schema/3.0.9": {
@@ -24,7 +27,10 @@
           "Newtonsoft.Json": "11.0.1"
         },
         "runtime": {
-          "lib/netstandard2.0/Newtonsoft.Json.Schema.dll": {}
+          "lib/netstandard2.0/Newtonsoft.Json.Schema.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.9.21902"
+          }
         }
       }
     }

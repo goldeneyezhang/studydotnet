@@ -39,7 +39,6 @@ E:\selfcode\StudyCode\WebApplication1.Tests\bin\Debug\System.Web.Optimization.xm
 E:\selfcode\StudyCode\WebApplication1.Tests\bin\Debug\Autofac.xml
 E:\selfcode\StudyCode\WebApplication1.Tests\bin\Debug\Autofac.Integration.Mvc.xml
 E:\selfcode\StudyCode\WebApplication1.Tests\bin\Debug\zh-Hans\System.Web.Optimization.resources.dll
-E:\selfcode\StudyCode\WebApplication1.Tests\obj\Debug\WebApplication1.Tests.csprojResolveAssemblyReference.cache
 E:\selfcode\StudyCode\WebApplication1.Tests\obj\Debug\WebApplication1.Tests.dll
 E:\selfcode\StudyCode\WebApplication1.Tests\obj\Debug\WebApplication1.Tests.pdb
 E:\selfcode\StudyCode\WebApplication1.Tests\bin\Debug\ConsoleAppAutofac.dll
@@ -54,3 +53,5 @@ E:\selfcode\StudyCode\WebApplication1.Tests\bin\Debug\zh-Hans\System.Web.WebPage
 E:\selfcode\StudyCode\WebApplication1.Tests\bin\Debug\zh-Hans\System.Web.WebPages.Razor.resources.dll
 E:\selfcode\StudyCode\WebApplication1.Tests\obj\Debug\WebApplication1.Tests.csproj.CoreCompileInputs.cache
 E:\selfcode\StudyCode\WebApplication1.Tests\bin\Debug\ConsoleAppAutofac.dll.config
+E:\selfcode\StudyCode\WebApplication1.Tests\obj\Debug\WebApplication1.Tests.csprojAssemblyReference.cache
+E:\selfcode\StudyCode\WebApplication1.Tests\obj\Debug\WebApplication1.Tests.csproj.CopyComplete
