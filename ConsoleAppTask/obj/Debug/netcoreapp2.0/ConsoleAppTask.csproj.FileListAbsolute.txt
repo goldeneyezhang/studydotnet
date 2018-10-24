@@ -8,3 +8,4 @@ E:\selfcode\StudyCode\ConsoleAppTask\obj\Debug\netcoreapp2.0\ConsoleAppTask.Asse
 E:\selfcode\StudyCode\ConsoleAppTask\obj\Debug\netcoreapp2.0\ConsoleAppTask.AssemblyInfo.cs
 E:\selfcode\StudyCode\ConsoleAppTask\obj\Debug\netcoreapp2.0\ConsoleAppTask.dll
 E:\selfcode\StudyCode\ConsoleAppTask\obj\Debug\netcoreapp2.0\ConsoleAppTask.pdb
+E:\selfcode\StudyCode\ConsoleAppTask\obj\Debug\netcoreapp2.0\ConsoleAppTask.csprojAssemblyReference.cache
